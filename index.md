@@ -51,6 +51,5 @@ My research interest is in the area of dialogue systems. Currrently, I am workin
 ---
 
 #### Personal
-- [:love_letter:](https://claravania.github.io)
 - I like to __watch__, __re-watch__, and __over-analyze__ badminton matches. My favorite players are Taufik Hidayat and Kevin Sanjaya of Indonesia.
-- I like to eat Kentucky Fried Chicken (KFC) and have visited their outlets around the world.
+- I like to eat Kentucky Fried Chicken (KFC) and have visited their [outlets around the world](https://photos.app.goo.gl/Ceyxz45y2oBVwvuo6).
