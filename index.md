@@ -42,5 +42,5 @@ My research interest is in the area of dialogue systems
 
 
 ## Personal
-- [:love_letter:](https://claravania.github.io/)
+- :love_letter:
 - I like to __watch__, __re-watch__, and __over-analyze__ badminton matches.
