@@ -11,7 +11,7 @@ My research interest is in the area of dialogue systems. Currrently, I am workin
 
 ### News
 - Invited to Google NLP Summit 2019 in Zurich
-- Paper accepted at SIGDIAL 2019
+- One paper accepted at SIGDIAL 2019
 
 ### Publication
 
