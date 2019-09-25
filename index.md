@@ -9,6 +9,10 @@ I am a PhD student at the [University of Trento](https://ict.unitn.it/). I am al
 
 My research interest is in the area of dialogue systems. Currrently, I am working on Natural Language Understanding (NLU) tasks e.g. slot filling for task-oriented dialogue systems. I am interested to investigate methods to scale NLU models to other domains with limited or without labeled data. My other interests are semantic role labeling, frame semantic parsing, and natural language generation.
 
+### News
+- Invited to Google NLP Summit 2019 in Zurich
+- Paper accepted at SIGDIAL 2019
+
 ### Publication
 
 - __Samuel Louvan__ and Bernardo Magnini. *Leveraging Non-Conversational Tasks for Low Resource Slot Filling: Does it help?*  __SIGDIAL 2019__ [[pdf]](https://ahcweb01.naist.jp/sigdial20/proceedings/proceedings_SIGDIAL2019.pdf) [[poster]](assets/SIGDIAL_2019_Poster_Final.pdf)
