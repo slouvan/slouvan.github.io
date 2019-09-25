@@ -7,7 +7,7 @@ title: Samuel Louvan
 
 I am a PhD student at the [University of Trento](https://ict.unitn.it/). I am also affiliated with the [NLP Research Unit](https://ict.fbk.eu/units/nlp/) at Fondazione Bruno Kessler (FBK) under the supervision of [Bernardo Magnini](https://ict.fbk.eu/people/detail/bernardo-magnini/). 
 
-My research interest is in the area of dialogue systems. Currrently, I am working on Natural Language Understanding (NLU) e.g. slot filling for task-oriented dialogue systems. I am interested to investigate methods to scale NLU models to other domains with limited or without labeled data. My other interests are semantic role labeling, frame semantic parsing, and natural language generation.
+My research interest is in the area of dialogue systems. Currrently, I am working on Natural Language Understanding (NLU) tasks e.g. slot filling for task-oriented dialogue systems. I am interested to investigate methods to scale NLU models to other domains with limited or without labeled data. My other interests are semantic role labeling, frame semantic parsing, and natural language generation.
 
 ### Publication
 
