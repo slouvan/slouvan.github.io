@@ -27,3 +27,4 @@ title: Samuel Louvan
 - ACL 2019 Student Volunteer
 - ACL 2018 Reviewer
 - Fulbright Scholarship, 2013 - 2016
+- TU/e-Henk Bodt Scholarship, 2007-2009
