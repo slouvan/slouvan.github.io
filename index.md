@@ -7,7 +7,7 @@ title: Samuel Louvan
 
 I am a PhD student at the [University of Trento](https://ict.unitn.it/). I am also affiliated with the [NLP Research Unit](https://ict.fbk.eu/units/nlp/) at Fondazione Bruno Kessler (FBK) under the supervision of [Bernardo Magnini](https://ict.fbk.eu/people/detail/bernardo-magnini/). 
 
-My research interest is in the area of dialogue systems  
+My research interest is in the area of dialogue systems.
 ### Publication
 
 - __Samuel Louvan__ and Bernardo Magnini. *Leveraging Non-Conversational Tasks for Low Resource Slot Filling: Does it help?*  __SIGDIAL 2019__ [[pdf]](https://ahcweb01.naist.jp/sigdial20/proceedings/proceedings_SIGDIAL2019.pdf) [[poster]](assets/SIGDIAL_2019_Poster_Final.pdf)
@@ -42,5 +42,6 @@ My research interest is in the area of dialogue systems
 
 
 #### Personal
-- [:love_letter:](hhtps://claravania.github.io)
-- I like to __watch__, __re-watch__, and __over-analyze__ badminton matches.
+- [:love_letter:](https://claravania.github.io)
+- I like to __watch__, __re-watch__, and __over-analyze__ badminton matches. My favorite players are Taufik Hidayat and Kevin Sanjaya of Indonesia.
+- I like to eat Kentucky Fried Chicken (KFC) and have visited their outlets around the world.
