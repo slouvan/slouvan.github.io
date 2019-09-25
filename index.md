@@ -24,9 +24,17 @@ title: Samuel Louvan
 
 ### Work Experience
 
+- Part-time Researcher, Kata.ai, Jakarta, (Aug 2017- Dec 2017)
+- Junior Lecturer, Universitas Indonesia, (2010 - 2013,  2017) 
+- Teaching Assistant, Stony Brook University, (Aug 2016 - Dec 2016)
+
 
 ### Awards/Services
 - ACL 2019 Student Volunteer
 - ACL 2018 Reviewer
+- Search-oriented Conversational AI (SCAI 2018) Travel Grant Award
+- LxMLS, Lisbon Machine Learning Summer School Scholarship 2018
 - Fulbright Scholarship, 2013 - 2016
 - TU/e-Henk Bodt Scholarship, 2007-2009
+
+
