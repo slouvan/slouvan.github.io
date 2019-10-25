@@ -14,6 +14,7 @@ My research interest is in the area of dialogue systems. Currrently, I am workin
 ### News
 
 - Invited to Google NLP Summit 2019 in Zurich
+
 - One paper accepted at SIGDIAL 2019
 
 ---
@@ -23,6 +24,7 @@ My research interest is in the area of dialogue systems. Currrently, I am workin
 - __Samuel Louvan__ and Bernardo Magnini. *From General to Specific :  Leveraging Named Entity Recognition for Slot Filling in Conversational Language Understanding* In the Fifth Italian Conference on Computational Linguistics __CLic-it 2018__ [[pdf]](http://ceur-ws.org/Vol-2253/paper09.pdf)
 - Kemal Kurniawan and __Samuel Louvan__. *Empirical Evaluation of Character-Based Model on Neural Named-EntityRecognition in Indonesian Conversational Texts*. In  the  4th  Workshop  on  Noisy  User-generated  Text __(W-NUT) at EMNLP 2018__ [[pdf]](http://aclweb.org/anthology/W18-6112)
 - __Samuel Louvan__, Chetan Naik, Sadhana Kumaravel, Heeyoung Kwon, Niranjan Balasubramanian,and Peter Clark. *Cross-Sentence Inference for Process Knowledge*  __EMNLP 2016__ [[pdf]](https://www.aclweb.org/anthology/D16-1151) [[poster]](assets/EMNLP_2016_Poster.pdf)
+
 
 
 
@@ -37,19 +39,23 @@ My research interest is in the area of dialogue systems. Currrently, I am workin
 - BEng in Informatics Engineering, Institut Teknologi Bandung (2001-2005)
 
 
+
+
 ---
 ### Work Experience
+
 
 - Part-time Researcher, Kata.ai, Jakarta, (Aug 2017- Dec 2017)
 - Junior Lecturer, Universitas Indonesia, (2010 - 2013,  2017) 
 - Teaching Assistant, Stony Brook University, (Aug 2016 - Dec 2016)
 
 
+
 ---
 
 ### Awards/Services
-- AC
-- L 2019 Student Volunteer
+
+- ACL 2019 Student Volunteer
 - ACL 2018 Reviewer
 - Search-oriented Conversational AI (SCAI 2018) Travel Grant Award
 - LxMLS, Lisbon Machine Learning Summer School Scholarship 2018
