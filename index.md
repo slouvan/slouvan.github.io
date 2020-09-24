@@ -10,8 +10,12 @@ I am a PhD student at the [University of Trento](https://ict.unitn.it/). I am al
 My research interest is in the area of dialogue systems. Currrently, I am working on Natural Language Understanding (NLU) tasks e.g. slot filling for task-oriented dialogue systems. I am interested to investigate methods to scale NLU models to other domains with limited or without labeled data. My other interests are semantic role labeling, frame semantic parsing, and natural language generation.
 
 
+
 ---
 ### News
+- One paper accepted at PACLIC 2020
+
+- Internship at Amazon-Alexa AI as Applied Scientist Intern starting September 2020
 
 - Invited to Google NLP Summit 2019 in Zurich
 
