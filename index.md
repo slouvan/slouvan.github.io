@@ -11,12 +11,14 @@ My research interest is in the area of dialogue systems. Currrently, I am workin
 
 
 
+
 ---
 ### News
+
+- Internship at Amazon-Alexa AI as Applied Scientist Intern starting September 2020
 - One paper accepted at COLING 2020
 - One paper accepted at Workshop on Insights from Negative Results in NLP  at EMNLP 2020 
 - One paper accepted at PACLIC 2020
-- Internship at Amazon-Alexa AI as Applied Scientist Intern starting September 2020
 - Invited to Google NLP Summit 2019 in Zurich
 - One paper accepted at SIGDIAL 2019
 
